@@ -1,6 +1,6 @@
 ## About Me ##
 
-- 👋 Hello! I'm a second-semester student in Media Informatics at the University of Applied Sciences Dresden (HTW Dresden).
+- 👋 Hello! I'm a third-semester student in Media Informatics at the University of Applied Sciences Dresden (HTW Dresden).
 
 - 🕹️ As a Social Media Manager specializing in game design and research, I'm passionate about the intersection of technology and creativity.
 
