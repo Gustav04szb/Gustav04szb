@@ -1,10 +1,8 @@
 ## About Me ##
 
-- 👋 Hello! I'm a fourth-semester student in Media Informatics at the University of Applied Sciences Dresden (HTW Dresden).
+- 👋 Hello! I'm a fifth-semester student in Media Informatics at the University of Applied Sciences Dresden (HTW Dresden).
 
-- 🕹️ As a Social Media Manager specializing in game design and research, I'm passionate about the intersection of technology and creativity.
-
-- 💻 Currently, I'm diving into the world of coding and expanding my skills in Java.
+- 🕹️ Specializing in game design and research, I'm passionate about the intersection of technology and creativity.
 
 - 🎨 I enjoy creating 3D art using Blender and Improving my designing skills with Photoshop and Illustrator.
 
